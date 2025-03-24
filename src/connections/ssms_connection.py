@@ -1,0 +1,1 @@
+# fro getting the data from the sequal server managment studio
